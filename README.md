@@ -13,3 +13,7 @@ It is intended as a **research prototype** to support reproducibility and unders
 ## Usage  
 The code is provided **as-is** for research purposes.  
 It has been tested only in the experimental setup described in the paper and is **not a ready-to-use production system**.
+
+## Acknowledgements
+
+Data were provided by the developing Human Connectome Project, KCL-Imperial-Oxford Consortium funded by the European Research Council under the European Union Seventh Framework Programme (FP/2007-2013) / ERC Grant Agreement no. [319456]. We are grateful to the families who generously supported this trial.
